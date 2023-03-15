@@ -1,0 +1,29 @@
+.nav-link{ 
+    display: block;
+    background: #E9BB7F;
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+}
+.nav-link:hover{ 
+    background: rosybrown;
+}
+
+.logo{
+    width: 20%;
+    padding: 10px;
+    background: #EEEBD3;
+}
+
+nav{
+    background: #EEEBD3;
+}
+
+header{
+    background: #2F4756;
+    padding: 40px;
+}
+
+
+
+ 
